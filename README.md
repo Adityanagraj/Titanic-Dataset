@@ -1,2 +1,2 @@
 # Titanic-Dataset
-d
+Analysing Titanic Dataset using Logistic Regression
