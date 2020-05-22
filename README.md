@@ -9,5 +9,5 @@ Analysing Titanic Dataset using Logistic Regression<br>
   <li>seaborn<b></li>
   <li>sklearn<b></li><br>
 </ul>
-
+This dataset will give precision of 79%
 
